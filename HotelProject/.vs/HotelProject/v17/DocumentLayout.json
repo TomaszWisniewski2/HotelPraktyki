@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C297ADB4-7680-413D-B0EA-2851C30665C2}|HotelProject.Common\\HotelProject.Common.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.common\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C297ADB4-7680-413D-B0EA-2851C30665C2}|HotelProject.Common\\HotelProject.Common.csproj|solutionrelative:hotelproject.common\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\adminservice\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\adminservice\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A38C6C5-FDC0-43F6-AFF2-19062E6B383B}|HotelProject.DAL\\HotelProject.DAL.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.dal\\db_access\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A38C6C5-FDC0-43F6-AFF2-19062E6B383B}|HotelProject.DAL\\HotelProject.DAL.csproj|solutionrelative:hotelproject.dal\\db_access\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\authorizationservice\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\authorizationservice\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\authorizationservice\\iauthorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\authorizationservice\\iauthorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C297ADB4-7680-413D-B0EA-2851C30665C2}|HotelProject.Common\\HotelProject.Common.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.common\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C297ADB4-7680-413D-B0EA-2851C30665C2}|HotelProject.Common\\HotelProject.Common.csproj|solutionrelative:hotelproject.common\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C297ADB4-7680-413D-B0EA-2851C30665C2}|HotelProject.Common\\HotelProject.Common.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.common\\enums\\roomstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C297ADB4-7680-413D-B0EA-2851C30665C2}|HotelProject.Common\\HotelProject.Common.csproj|solutionrelative:hotelproject.common\\enums\\roomstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C297ADB4-7680-413D-B0EA-2851C30665C2}|HotelProject.Common\\HotelProject.Common.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.common\\enums\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C297ADB4-7680-413D-B0EA-2851C30665C2}|HotelProject.Common\\HotelProject.Common.csproj|solutionrelative:hotelproject.common\\enums\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\adminservice\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\adminservice\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\dto\\editroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\dto\\editroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\dto\\editbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\dto\\editbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\dto\\addroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\dto\\addroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B675F3-2B9D-4E08-8B4D-C586A397BEEE}|HotelProject\\HotelProject.WEBAPI.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B675F3-2B9D-4E08-8B4D-C586A397BEEE}|HotelProject\\HotelProject.WEBAPI.csproj|solutionrelative:hotelproject\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B675F3-2B9D-4E08-8B4D-C586A397BEEE}|HotelProject\\HotelProject.WEBAPI.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B675F3-2B9D-4E08-8B4D-C586A397BEEE}|HotelProject\\HotelProject.WEBAPI.csproj|solutionrelative:hotelproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B675F3-2B9D-4E08-8B4D-C586A397BEEE}|HotelProject\\HotelProject.WEBAPI.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38B675F3-2B9D-4E08-8B4D-C586A397BEEE}|HotelProject\\HotelProject.WEBAPI.csproj|solutionrelative:hotelproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B675F3-2B9D-4E08-8B4D-C586A397BEEE}|HotelProject\\HotelProject.WEBAPI.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38B675F3-2B9D-4E08-8B4D-C586A397BEEE}|HotelProject\\HotelProject.WEBAPI.csproj|solutionrelative:hotelproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B675F3-2B9D-4E08-8B4D-C586A397BEEE}|HotelProject\\HotelProject.WEBAPI.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B675F3-2B9D-4E08-8B4D-C586A397BEEE}|HotelProject\\HotelProject.WEBAPI.csproj|solutionrelative:hotelproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B675F3-2B9D-4E08-8B4D-C586A397BEEE}|HotelProject\\HotelProject.WEBAPI.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B675F3-2B9D-4E08-8B4D-C586A397BEEE}|HotelProject\\HotelProject.WEBAPI.csproj|solutionrelative:hotelproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A38C6C5-FDC0-43F6-AFF2-19062E6B383B}|HotelProject.DAL\\HotelProject.DAL.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.dal\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A38C6C5-FDC0-43F6-AFF2-19062E6B383B}|HotelProject.DAL\\HotelProject.DAL.csproj|solutionrelative:hotelproject.dal\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\dto\\guestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\dto\\guestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A38C6C5-FDC0-43F6-AFF2-19062E6B383B}|HotelProject.DAL\\HotelProject.DAL.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.dal\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A38C6C5-FDC0-43F6-AFF2-19062E6B383B}|HotelProject.DAL\\HotelProject.DAL.csproj|solutionrelative:hotelproject.dal\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.services\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54CD2D-35DF-4425-9E89-22FD61CAC9BA}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A38C6C5-FDC0-43F6-AFF2-19062E6B383B}|HotelProject.DAL\\HotelProject.DAL.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A38C6C5-FDC0-43F6-AFF2-19062E6B383B}|HotelProject.DAL\\HotelProject.DAL.csproj|solutionrelative:hotelproject.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A38C6C5-FDC0-43F6-AFF2-19062E6B383B}|HotelProject.DAL\\HotelProject.DAL.csproj|c:\\users\\tomek\\desktop\\hotelpraktyki\\hotelproject\\hotelproject.dal\\migrations\\20240303104825_userjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A38C6C5-FDC0-43F6-AFF2-19062E6B383B}|HotelProject.DAL\\HotelProject.DAL.csproj|solutionrelative:hotelproject.dal\\migrations\\20240303104825_userjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 231,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Common\\Enums\\RoomType.cs",
+              "RelativeDocumentMoniker": "HotelProject.Common\\Enums\\RoomType.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Common\\Enums\\RoomType.cs",
+              "RelativeToolTip": "HotelProject.Common\\Enums\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:15:08.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Common\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "HotelProject.Common\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Common\\Enums\\UserRole.cs",
+              "RelativeToolTip": "HotelProject.Common\\Enums\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T17:55:35.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\UserService\\UserService.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\UserService\\UserService.cs",
+              "RelativeToolTip": "HotelProject.Services\\UserService\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:12:35.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\AdminService\\IAdminService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\AdminService\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\AdminService\\IAdminService.cs",
+              "RelativeToolTip": "HotelProject.Services\\AdminService\\IAdminService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:32:19.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\AdminService\\AdminService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\AdminService\\AdminService.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\AdminService\\AdminService.cs",
+              "RelativeToolTip": "HotelProject.Services\\AdminService\\AdminService.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAmwNMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:49:18.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Common\\Enums\\RoomStatus.cs",
+              "RelativeDocumentMoniker": "HotelProject.Common\\Enums\\RoomStatus.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Common\\Enums\\RoomStatus.cs",
+              "RelativeToolTip": "HotelProject.Common\\Enums\\RoomStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T17:06:30.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentType.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Common\\Enums\\PaymentType.cs",
+              "RelativeDocumentMoniker": "HotelProject.Common\\Enums\\PaymentType.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Common\\Enums\\PaymentType.cs",
+              "RelativeToolTip": "HotelProject.Common\\Enums\\PaymentType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T17:02:49.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "HotelProject.Services\\DTO\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:26:05.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\RoomDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\DTO\\RoomDTO.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\RoomDTO.cs",
+              "RelativeToolTip": "HotelProject.Services\\DTO\\RoomDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:24:45.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthorizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\AuthorizationService\\IAuthorizationService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\AuthorizationService\\IAuthorizationService.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\AuthorizationService\\IAuthorizationService.cs",
+              "RelativeToolTip": "HotelProject.Services\\AuthorizationService\\IAuthorizationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:32:04.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\AuthorizationService\\AuthorizationService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\AuthorizationService\\AuthorizationService.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\AuthorizationService\\AuthorizationService.cs",
+              "RelativeToolTip": "HotelProject.Services\\AuthorizationService\\AuthorizationService.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAwD0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:20:47.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.DAL\\Db_Access\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "HotelProject.DAL\\Db_Access\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.DAL\\Db_Access\\DatabaseContext.cs",
+              "RelativeToolTip": "HotelProject.DAL\\Db_Access\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:16:47.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditBookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\EditBookingDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\DTO\\EditBookingDTO.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\EditBookingDTO.cs",
+              "RelativeToolTip": "HotelProject.Services\\DTO\\EditBookingDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:19:36.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\DTO\\BookingDTO.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\BookingDTO.cs",
+              "RelativeToolTip": "HotelProject.Services\\DTO\\BookingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:14:41.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditRoomDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\EditRoomDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\DTO\\EditRoomDTO.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\EditRoomDTO.cs",
+              "RelativeToolTip": "HotelProject.Services\\DTO\\EditRoomDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:00:38.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\DTO\\TokenDTO.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\TokenDTO.cs",
+              "RelativeToolTip": "HotelProject.Services\\DTO\\TokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:15:16.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddRoomDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\AddRoomDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\DTO\\AddRoomDTO.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\AddRoomDTO.cs",
+              "RelativeToolTip": "HotelProject.Services\\DTO\\AddRoomDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:48:49.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HotelProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:52:14.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthorizationController.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject\\Controllers\\AuthorizationController.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Controllers\\AuthorizationController.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject\\Controllers\\AuthorizationController.cs",
+              "RelativeToolTip": "HotelProject\\Controllers\\AuthorizationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:35:34.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HotelProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HotelProject\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T14:49:23.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GuestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\GuestDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\DTO\\GuestDTO.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\GuestDTO.cs",
+              "RelativeToolTip": "HotelProject.Services\\DTO\\GuestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:15:53.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject\\appsettings.json",
+              "RelativeToolTip": "HotelProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T12:46:43.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.DAL\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "HotelProject.DAL\\Entities\\Room.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.DAL\\Entities\\Room.cs",
+              "RelativeToolTip": "HotelProject.DAL\\Entities\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:20:10.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject\\Startup.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Startup.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject\\Startup.cs",
+              "RelativeToolTip": "HotelProject\\Startup.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA5wGIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:40:54.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\UserService\\IUserService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\UserService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\UserService\\IUserService.cs",
+              "RelativeToolTip": "HotelProject.Services\\UserService\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:12:43.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject\\Program.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject\\Program.cs",
+              "RelativeToolTip": "HotelProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:34:28.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "HotelProject.Services\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:23:27.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.DAL\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "HotelProject.DAL\\Entities\\Booking.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.DAL\\Entities\\Booking.cs",
+              "RelativeToolTip": "HotelProject.DAL\\Entities\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:52:43.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ServiceModule.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\ServiceModule.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\ServiceModule.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.Services\\ServiceModule.cs",
+              "RelativeToolTip": "HotelProject.Services\\ServiceModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:41:11.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HotelProject.DAL\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.DAL\\Entities\\User.cs",
+              "RelativeToolTip": "HotelProject.DAL\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:26:28.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240303104825_userJwt.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.DAL\\Migrations\\20240303104825_userJwt.cs",
+              "RelativeDocumentMoniker": "HotelProject.DAL\\Migrations\\20240303104825_userJwt.cs",
+              "ToolTip": "C:\\Users\\Tomek\\Desktop\\HotelPraktyki\\HotelProject\\HotelProject.DAL\\Migrations\\20240303104825_userJwt.cs",
+              "RelativeToolTip": "HotelProject.DAL\\Migrations\\20240303104825_userJwt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:48:26.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
